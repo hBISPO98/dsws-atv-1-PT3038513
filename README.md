@@ -11,7 +11,7 @@ Você pode testar cada uma das rotas abaixo adicionando o caminho ao final da UR
 -> Retorna uma saudação de boas-vindas.
 
 * **Saudação Personalizada (Link dinâmico):** `https://SEU_USUARIO.pythonanywhere.com/user/NomeExemplo`
--> 💡 *Nota para quem for testar:* Você deve alterar `<NomeExemplo>` para qualquer palavra ou nome que desejar na URL (Exemplo: `/user/Radia Perlman` ou `/user/Tim Berners`).
+-> 💡 *Nota para quem for testar:* Você deve alterar `<NomeExemplo>` para qualquer palavra ou nome que desejar na URL (Exemplo: `/user/Radia Perlman` ou `/user/Tim Berners`).\
 ->  Retorna uma saudação personalizada com o nome informado.
 
 * **Contexto da Requisição:** `https://SEU_USUARIO.pythonanywhere.com/contextorequisicao`

@@ -7,6 +7,7 @@ Projeto desenvolvido com o framework **Flask** para estudo de rotas, requisiçõ
 Você pode testar cada uma das rotas abaixo adicionando o caminho ao final da URL principal do projeto:
 
 * **Página Inicial:** `https://SEU_USUARIO.pythonanywhere.com/`
+
 -> Retorna uma saudação de boas-vindas.
 
 * **Saudação Personalizada (Link dinâmico):** `https://SEU_USUARIO.pythonanywhere.com/user/NomeExemplo`

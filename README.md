@@ -25,6 +25,5 @@ Você pode testar cada uma das rotas abaixo adicionando o caminho ao final da UR
 * **Redirecionamento:** `https://SEU_USUARIO.pythonanywhere.com/ifsp`\
 --> Redireciona automaticamente o navegador para o site oficial do IFSP (Pirituba).
 
-* **Cancelar Requisição:** `https://SEU_USUARIO.pythonanywhere.com/cancelar`
-)`\
+* **Cancelar Requisição:** `https://SEU_USUARIO.pythonanywhere.com/cancelar`\
 --> Interrompe a requisição gerando um erro HTTP `404 Not Found`.

@@ -22,9 +22,9 @@ Você pode testar cada uma das rotas abaixo adicionando o caminho ao final da UR
 * **Objeto de Resposta com Cookie:** `https://SEU_USUARIO.pythonanywhere.com/objetoresposta`\
 --> Retorna um documento e define um cookie (`language, pt-BR`, verificável ao inspecionar a página) no navegador.
 
-* **Redirecionamento:** `https://SEU_USUARIO.pythonanywhere.com/ifsp`\ 
+* **Redirecionamento:** `https://SEU_USUARIO.pythonanywhere.com/ifsp`\
 --> Redireciona automaticamente o navegador para o site oficial do IFSP (Pirituba).
 
 * **Cancelar Requisição:** `https://SEU_USUARIO.pythonanywhere.com/cancelar`
-)`
-  * Interrompe a requisição gerando um erro HTTP `404 Not Found`.
+)`\
+--> Interrompe a requisição gerando um erro HTTP `404 Not Found`.
